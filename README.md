@@ -26,7 +26,7 @@ This project demonstrates my ability to work with data, build regression models,
 
 ## Tools & Libraries
 
-- **Python 3.x**  
+- **Python 3**  
 - **Pandas** – data manipulation and cleaning  
 - **Matplotlib** – plotting and visualisation  
 - **Seaborn** – statistical data visualisation  
